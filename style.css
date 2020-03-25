@@ -1,0 +1,60 @@
+#main {
+  font-family: Helvetica;
+  background-color: #f7e6d2;
+}
+
+#title {
+  padding: 10px;
+}
+
+#img-caption {
+  padding: 10px;
+}
+
+img {
+  max-width: 1200px;
+}
+
+#img-figure {
+  background-color: #eeeeee;
+  padding: 20px 0px 0px 0px;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+h3 {
+  text-align: center;
+}
+
+#tribute-info {
+  max-width: 800px;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+strong {
+  color: #333;
+}
+
+#title {
+  color: #333;
+}
+
+#title-section {
+  text-align: center;
+}
+
+#additional-info {
+  padding: 10px;
+}
